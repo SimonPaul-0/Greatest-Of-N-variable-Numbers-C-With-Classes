@@ -22,7 +22,7 @@ This C++ program calculates the greatest number among a given set of numbers. It
 
     View the result, which displays the greatest number among the entered values.
 
-Author
+## Author
 
 [Simon Paul]
 
