@@ -4,12 +4,11 @@
 This C++ program calculates the greatest number among a given set of numbers. It takes 'n' numbers as input and determines the maximum value.
 ## How to Use
 
-### 1. Compile the program using a C++ compiler. #### For example, you can use g++:
+### 1. Compile the program using a C++ compiler.For example, you can use g++:
 
-    ```bash
-
-    g++ greatest_number.cpp -o greatest_number
-    ```
+```bash
+g++ greatest_number.cpp -o greatest_number
+```
 
 ### 2. Run the compiled executable:
     ```bash
