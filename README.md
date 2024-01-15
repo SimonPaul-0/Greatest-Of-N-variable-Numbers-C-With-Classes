@@ -6,7 +6,7 @@ This C++ program calculates the greatest number among a given set of numbers. It
 
 #### 1. Compile the program using a C++ compiler.For example, you can use g++:
 
-  ```bash
+   ```bash
    g++ greatest_number.cpp -o greatest_number
    ```
 
