@@ -11,9 +11,10 @@ g++ greatest_number.cpp -o greatest_number
 ```
 
 ### 2. Run the compiled executable:
-    ```bash
-    ./greatest_number
-    ```
+
+```bash
+./greatest_number
+```
 
 ### 3. Enter the count of numbers (n) when prompted.
 
