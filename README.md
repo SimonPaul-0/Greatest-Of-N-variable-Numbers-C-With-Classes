@@ -22,8 +22,8 @@ This C++ program calculates the greatest number among a given set of numbers. It
 
 #### 5. View the result, which displays the greatest number among the entered values.
 
+Feel free to modify the program and use it as desired.
+
 ## Author
 
 [Simon Paul]
-
-Feel free to modify the program and use it as desired.
